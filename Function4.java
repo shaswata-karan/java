@@ -1,3 +1,5 @@
+// Write a function to calculate the factorial of a number.
+
 import java.util.*;
 
 public class Function4 {

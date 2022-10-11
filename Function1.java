@@ -1,4 +1,7 @@
+// Write a function to print your name.
+
 import java.util.*;
+
 public class Function1 {
     public static void printMyName(String name) {
         System.out.println(name);

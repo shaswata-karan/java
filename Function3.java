@@ -1,3 +1,5 @@
+// Write a function to calculate the product of 2 numbers.
+
 import java.util.*;
 
 public class Function3 {

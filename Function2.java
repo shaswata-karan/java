@@ -1,3 +1,5 @@
+// Write a function to calculate the sum of 2 numbers.
+
 import java.util.*;
 
 public class Function2 {
