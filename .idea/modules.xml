@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-basics/01-basics.iml" filepath="$PROJECT_DIR$/01-basics/01-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-conditions-loops/02-conditions-loops.iml" filepath="$PROJECT_DIR$/02-conditions-loops/02-conditions-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-methods/03-methods.iml" filepath="$PROJECT_DIR$/03-methods/03-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-arrays/04-arrays.iml" filepath="$PROJECT_DIR$/04-arrays/04-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-linear search/05-linear search.iml" filepath="$PROJECT_DIR$/05-linear search/05-linear search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-binary search/06-binary search.iml" filepath="$PROJECT_DIR$/06-binary search/06-binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-sorting/07-sorting.iml" filepath="$PROJECT_DIR$/07-sorting/07-sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-strings/08-strings.iml" filepath="$PROJECT_DIR$/08-strings/08-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-patterns/09-patterns.iml" filepath="$PROJECT_DIR$/09-patterns/09-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
