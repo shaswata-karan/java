@@ -1,4 +1,4 @@
-// Write a function to calculate the factorial of a number.
+// Write a method to calculate factorial of a number.
 
 import java.util.*;
 
@@ -15,12 +15,12 @@ public class Factorial {
             factorial = factorial * i;
         }
 
-        System.out.println(factorial);
-        return;
+        System.out.println("Factorial is: " +factorial);
     }
 
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a number: ");
         int n = sc.nextInt();
         printFactorial(n);
     }
