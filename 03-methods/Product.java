@@ -11,6 +11,7 @@ public class Product {
         System.out.print("Enter second number: ");
         int b = sc.nextInt();
         System.out.print("Product of the given numbers is: " + calculateProduct(a, b));
+        sc.close();
     }
 
     public static int calculateProduct (int a, int b) {

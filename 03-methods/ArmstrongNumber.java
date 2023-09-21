@@ -5,7 +5,7 @@ import java.util.*;
 
 public class ArmstrongNumber {
     public static void main(String[] args) {
-// Scanner sc = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
 // System.out.print("Enter a 3 digit no. to check whether it is an armstrong no. or not -> ");
 // int n = sc.nextInt();
 // boolean ans = Armstrong(n);
@@ -17,6 +17,7 @@ public class ArmstrongNumber {
                 System.out.print(i + " ");
             }
         }
+        sc.close();
     }
 
     static boolean Armstrong(int n) {

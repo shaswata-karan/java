@@ -14,6 +14,7 @@ public class Sum
         int b = sc.nextInt();
         int sum = calculateSum(a,b); // function call
         System.out.print("Sum of two numbers is: " + sum);
+        sc.close();
     }
 
     static int calculateSum(int a, int b) {

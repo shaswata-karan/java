@@ -83,5 +83,6 @@ public static void main(String[] args) {
 // nextInt - for taking integer input
 // nextFloat - for taking float input
         System.out.println("Name is: " + name);
+        sc.close();
   }
 }

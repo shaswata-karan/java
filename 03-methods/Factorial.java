@@ -3,6 +3,14 @@
 import java.util.*;
 
 public class Factorial {
+        public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter a number: ");
+        int n = sc.nextInt();
+        printFactorial(n);
+        sc.close();
+    }
+    
     public static void printFactorial(int n) {
         //loop
         if(n < 0) {
@@ -16,12 +24,5 @@ public class Factorial {
         }
 
         System.out.println("Factorial is: " +factorial);
-    }
-
-    public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a number: ");
-        int n = sc.nextInt();
-        printFactorial(n);
     }
 }

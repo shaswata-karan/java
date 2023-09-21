@@ -9,6 +9,7 @@ public class PrintName {
         System.out.print("Enter your name: ");
         String name = sc.next();
         printMyName(name); // function call
+        sc.close();
     }
 
     public static void printMyName(String name) {

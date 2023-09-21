@@ -9,6 +9,7 @@ public class Table {
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
         printTable(num);
+        sc.close();
     }
 
     public static void printTable(int num) {

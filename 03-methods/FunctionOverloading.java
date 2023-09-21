@@ -1,7 +1,5 @@
 // Write a method to perform Method Overloading
 
-import java.util.*;
-
 public class FunctionOverloading {
     public static void main(String[] args) {
         fun(67);

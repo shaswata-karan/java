@@ -9,6 +9,7 @@ public class PrimeCheck {
         int n = sc.nextInt();
         boolean ans = IsPrime(n);
         System.out.println(ans);
+        sc.close();
     }
 
     static boolean IsPrime (int n) {

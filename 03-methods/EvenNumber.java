@@ -16,6 +16,6 @@ class EvenNumber {
             System.out.print("The number is even");
         else
             System.out.print("The number is odd");
-
+            sc.close();
     }
 }
