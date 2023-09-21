@@ -1,15 +1,12 @@
-import java.util.*;
-
 public class Conditions {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 
-        // Example1
-        // Conditional Statements ‘if-else’
-        /*
-         * The if block is used to specify the code to be executed if the condition
-         * specified in if is true, the else block is executed otherwise.
-         */
+// Example1
+// Conditional Statements ‘if-else’
+
+// The if block is used to specify the code to be executed if the condition
+// specified in if is true, the else block is executed otherwise.
 
         System.out.println("Enter your age to check you are Adult or not");
         int age = sc.nextInt();
@@ -20,7 +17,7 @@ public class Conditions {
             System.out.println("You are not an Adult");
         }
 
-        // Example2
+// Example2
         System.out.println("Enter a number to check odd/even");
         int x = sc.nextInt();
 
@@ -30,7 +27,7 @@ public class Conditions {
             System.out.println("The number is odd");
         }
 
-        // Example3
+// Example3
         System.out.println("Enter two numbers a and b");
         int a = sc.nextInt();
         int b = sc.nextInt();
@@ -43,7 +40,7 @@ public class Conditions {
             System.out.println("b is greater");
         }
 
-        // Example4
+// Example4
         System.out.println("Enter button number");
         int button = sc.nextInt();
 
@@ -57,13 +54,12 @@ public class Conditions {
             System.out.println("Invalid Button");
         }
 
-        // Example5
-        // Conditional Statements ‘switch’
-        /*
-         * Switch case statements are a substitute for long if statements that compare a
-         * variable to multiple values. After a match is found, it executes the
-         * corresponding code of that value case.
-         */
+// Example5
+// Conditional Statements ‘switch’
+        
+// Switch case statements are a substitute for long if statements that compare a
+// variable to multiple values. After a match is found, it executes the
+// corresponding code of that value case.
 
         System.out.println("Enter button number, this time we are using switch case");
         int buttonnew = sc.nextInt();

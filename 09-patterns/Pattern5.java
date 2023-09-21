@@ -8,8 +8,6 @@ Inverted Half Pyramid (Rotated by 180)
 
 */
 
-import java.util.*;
-
 public class Pattern5 {
     public static void main(String args[]) {
 

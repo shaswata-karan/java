@@ -1,7 +1,5 @@
 // Write a method to check if a given number is even.
 
-import java.util.*;
-
 class EvenNumber {
     public static boolean evenNumber (int n) {
         return n % 2 == 0;

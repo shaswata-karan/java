@@ -5,11 +5,11 @@ import java.util.*;
 
 public class ArmstrongNumber {
     public static void main(String[] args) {
-//        Scanner sc = new Scanner(System.in);
-//        System.out.print("Enter a 3 digit no. to check whether it is an armstrong no. or not -> ");
-//        int n = sc.nextInt();
-//        boolean ans = Armstrong(n);
-//        System.out.println(ans);
+// Scanner sc = new Scanner(System.in);
+// System.out.print("Enter a 3 digit no. to check whether it is an armstrong no. or not -> ");
+// int n = sc.nextInt();
+// boolean ans = Armstrong(n);
+// System.out.println(ans);
 
         System.out.print("All 3 digit Armstrong numbers: ");
         for (int i = 100; i < 1000; i++) {

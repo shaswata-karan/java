@@ -9,8 +9,6 @@ Half Pyramid with Numbers
 
 */
 
-import java.util.*;
-
 public class Pattern6 {
     public static void main(String args[]) {
 

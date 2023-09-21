@@ -9,8 +9,6 @@ Solid Rhombus
 
 */
 
-import java.util.*;
-
 public class Pattern10 {
     public static void main(String args[]) {
         System.out.println("hi");
