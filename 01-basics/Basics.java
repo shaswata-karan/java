@@ -78,11 +78,11 @@ public static void main(String[] args) {
         System.out.println("Enter name");
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
+        sc.close();
 // 'sc.next' takes input only the first word/token.
 // 'sc.nextLine' takes input the whole line.
 // nextInt - for taking integer input
 // nextFloat - for taking float input
         System.out.println("Name is: " + name);
-        sc.close();
   }
 }
