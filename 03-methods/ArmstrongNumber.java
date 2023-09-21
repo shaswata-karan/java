@@ -9,6 +9,7 @@ public class ArmstrongNumber {
     System.out.print("Enter a 3 digit no. to check whether it is an armstrong no. or not -> ");
     int n = sc.nextInt();
     sc.close();
+    
     boolean ans = Armstrong(n);
     System.out.println(ans);
        
