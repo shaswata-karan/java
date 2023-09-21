@@ -1,5 +1,7 @@
+import java.util.*;
+
 class Basics {
-    public static void main(String[] args) 
+public static void main(String[] args) {
 
 // Functions
 // A function is a block of code which takes some input, performs some
@@ -81,5 +83,5 @@ class Basics {
 // nextInt - for taking integer input
 // nextFloat - for taking float input
         System.out.println("Name is: " + name);
-    
+  }
 }
