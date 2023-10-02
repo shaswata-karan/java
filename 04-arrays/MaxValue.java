@@ -11,6 +11,7 @@ public class MaxValue {
             arr[i] = sc.nextInt();
         }
         System.out.println("The maximum value in the array is: " + max(arr,n));
+        sc.close();
     }
 
     public static int max (int arr[], int n) {
