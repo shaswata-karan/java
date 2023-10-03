@@ -1,7 +1,7 @@
 // search the key-element in 2D array
 import java.util.Scanner;
 
-public class SearchInMatrice {
+public class SearchInMatrix {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int matrix[][] = new int[3][3];
@@ -9,7 +9,7 @@ public class SearchInMatrice {
         int m = matrix[0].length;
 
         // input
-        System.out.println("Input values:");
+        System.out.println("Input 9 values:");
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 matrix[i][j] = sc.nextInt();
