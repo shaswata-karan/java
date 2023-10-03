@@ -1,6 +1,6 @@
-// 2D array
+// Take user input and print 2D array
 import java.util.Scanner;
-public class matrices {
+public class PrintMatrix {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int matrix[][] = new int[3][3];
@@ -8,7 +8,7 @@ public class matrices {
         int m = matrix[0].length;
 
         // input
-        System.out.println("Input values:");
+        System.out.println("Input 9 values:");
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 matrix[i][j] = sc.nextInt();
