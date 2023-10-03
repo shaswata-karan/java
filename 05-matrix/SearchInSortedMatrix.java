@@ -1,5 +1,5 @@
 // Print a matrix spirally
-// this is called staircase search
+// this method is called staircase search - O(n+m)
 
 public class SearchInSortedMatrix {
     public static void main(String[] args) {
