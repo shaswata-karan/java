@@ -1,8 +1,8 @@
 public class SumDiff {
     public static void main(String[] args) {
-        int n = 4;
-        int m = 20;
-        System.out.println(difference(n, m));
+        int a = 4;
+        int b = 20;
+        System.out.println(difference(a, b));
     }
 
     public static int difference(int n,int m) {
