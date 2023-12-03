@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class q4 {
+class p4 {
     
     public static boolean isSquareFree(int n) {
         // If n is even, make n = n/2, this will reduce the number of our loop iterations.

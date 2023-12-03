@@ -1,4 +1,4 @@
-public class SumDiff {
+public class p3 {
     public static void main(String[] args) {
         int a = 4;
         int b = 20;
