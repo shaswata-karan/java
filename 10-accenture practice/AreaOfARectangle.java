@@ -1,4 +1,4 @@
-public class RectArea {
+public class AreaOfARectangle {
     public static void main(String[] args) {
         int rLength = 5;
         int rBreadth = 7;

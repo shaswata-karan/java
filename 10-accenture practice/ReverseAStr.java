@@ -1,4 +1,4 @@
-public class ReverseStr {
+public class ReverseAStr {
     public static void main(String[] args) {
         String str="Geeks";
         String newstr="";
