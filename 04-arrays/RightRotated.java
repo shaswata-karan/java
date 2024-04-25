@@ -32,7 +32,7 @@ public class RightRotated {
             t++;
         }
 
-        for (int i = 0; i < k; i++) {
+        for (int i = 0; i <= k; i++) {
             temp[t] = arr[i];
             t++;
         }
@@ -42,7 +42,7 @@ public class RightRotated {
         }
 
         for (int i = 0; i < size; i++) {
-            System.out.print("output: " + arr[i]);
+            System.out.println(arr[i]);
         }
 
         sc.close();
