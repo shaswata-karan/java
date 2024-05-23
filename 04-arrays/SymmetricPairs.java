@@ -15,7 +15,7 @@ public class SymmetricPairs {
         }
 
         // check
-        int temp[][] = new int[pair][2]; 
+        // int temp[][] = new int[pair][2]; 
         for (int i = 0; i < pair; i++) {
             for (int j = i+1; j < pair; j++) {
                 if (arr[i][0] == arr[j][1]
